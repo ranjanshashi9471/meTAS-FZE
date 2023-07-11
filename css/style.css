@@ -23,7 +23,7 @@
     color:#ffba00;
 }
 
-nav .active{
+nav,.fourthSection .active{
     background-color: #ffba00;
 }
 
@@ -38,6 +38,10 @@ nav .active{
 .thirdSection, .fifthSection p{
     font-size: 13px;
     color:#000000;
+}
+
+.fourth-section-1{
+    padding: 0.1% 26%;
 }
 
 .fourthSection,.fifthSection{
